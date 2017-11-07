@@ -234,4 +234,4 @@ plot_results(u_opt,x_opt,SCC,J,Params,Param_set);
 % Uncomment the following line to generate plots comparing the output
 %   of DICE2013R_mc and the outputs obtained via the original GAMS
 %   code for DICE2013R.  Note, this requires the file GAMS_Results.csv.
- plot_gams_verification(u_opt,x_opt,SCC,J,x0,Params,Param_set);
+% plot_gams_verification(u_opt,x_opt,SCC,J,x0,Params,Param_set);
